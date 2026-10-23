@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "title": "LJHR single-page portfolio",
+  "tokens": {
+    "colors": {
+      "accent": "#d13400",
+      "ink": "#000000",
+      "paper": "#ffffff",
+      "wine": "#300000"
+    },
+    "typography": {
+      "body": "Helvetica, Arial, sans-serif",
+      "navigation": "16px bold",
+      "projectTitle": "36px bold"
+    }
+  },
+  "extensions": {
+    "mode": "experience",
+    "mobileBreakpoint": "760px",
+    "navigation": "in-page anchors"
+  }
+}

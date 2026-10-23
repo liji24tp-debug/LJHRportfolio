@@ -1,0 +1,1 @@
+{"@context":"https://schema.org/","@type":"WebSite","name":"Vilja Wallin - Portfolio","url":"https://www.viljawallin-portfolio.com"}

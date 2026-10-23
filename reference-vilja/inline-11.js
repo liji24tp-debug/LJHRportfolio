@@ -1,0 +1,1 @@
+{"prefetch":[{"tag":"mpa-prefetch-eager","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/"}}]},"eagerness":"eager"}]}
